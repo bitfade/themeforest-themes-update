@@ -11,4 +11,5 @@ define('THEMEFOREST_APIKEY','APIKEY');
 where 
 
 USERNAME = buyer username on Envato
+
 APIKEY = buyer api key
