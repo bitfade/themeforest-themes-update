@@ -1,10 +1,10 @@
 <?php  
 /* 
 	Plugin Name: Themeforest Themes Update
-	Plugin URI: http://codecanyon.net 
+	Plugin URI: https://github.com/bitfade/themeforest-themes-update
 	Description: Updates all themes purchased from themeforest.net 
 	Author: pixelentity
-	Version: 1.0.0
+	Version: 1.0
 	Author URI: http://pixelentity.com
 */
 
