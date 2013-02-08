@@ -10,7 +10,7 @@
 
 
 // to debug
-set_site_transient('update_themes',null);
+// set_site_transient('update_themes',null);
 
 function themeforest_themes_update($updates) {
 	if (isset($updates->checked)) {
