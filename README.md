@@ -1,4 +1,4 @@
-Themeforest Themes Update Plugin
+Themeforest Themes Update WordPress Plugin
 =========================
 
 Install the plugin, then edit wp-config.php and add
